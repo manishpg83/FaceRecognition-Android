@@ -71,7 +71,7 @@ You can visit our YouTube video [here](https://www.youtube.com/watch?v=YybJW0Nfl
 
 ## SDK License
 
-- The code below shows how to use the license: https://github.com/kby-ai/FaceRecognition-Android/blob/4b071e04766d6b6a46882c0fc87cd7e2bcdc395d/app/src/main/java/com/kbyai/facerecognition/MainActivity.kt#L33-L43
+- The code below shows how to use the license: https://github.com/manishpg83/FaceRecognition-Android/blob/main/app/src/main/java/com/kbyai/facerecognition/MainActivity.kt#L36C1-L44C42
 
 - To request a license, please contact us:</br>
 🧙`Email:` hello@briskbraintech.com</br>
